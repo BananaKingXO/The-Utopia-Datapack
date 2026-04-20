@@ -1,0 +1,2 @@
+data modify storage utopia:granite_bricks Slots append from entity @s Inventory[{id:"minecraft:painting",components:{"minecraft:painting/variant":"utopia:a_granite_bricks"}}]
+function utopia:items/enchantment_blocks/replace/loop/granite_bricks with storage utopia:granite_bricks Slots[-1]

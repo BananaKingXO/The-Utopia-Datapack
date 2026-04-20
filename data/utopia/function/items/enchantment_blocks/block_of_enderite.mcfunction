@@ -1,0 +1,2 @@
+data modify storage utopia:block_of_enderite Slots append from entity @s Inventory[{id:"minecraft:painting",components:{"minecraft:painting/variant":"utopia:a_block_of_enderite"}}]
+function utopia:items/enchantment_blocks/replace/loop/block_of_enderite with storage utopia:block_of_enderite Slots[-1]

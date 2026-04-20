@@ -1,0 +1,2 @@
+data modify storage utopia:lapis_lazuli_bricks Slots append from entity @s Inventory[{id:"minecraft:painting",components:{"minecraft:painting/variant":"utopia:a_lapis_luzuli_bricks"}}]
+function utopia:items/enchantment_blocks/replace/loop/lapis_lazuli_bricks with storage utopia:lapis_lazuli_bricks Slots[-1]

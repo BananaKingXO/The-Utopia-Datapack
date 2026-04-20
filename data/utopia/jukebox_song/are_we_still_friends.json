@@ -1,0 +1,9 @@
+{
+    "comparator_output": 11,
+    "description": "Tyler, The Creator - ARE WE STILL FRIENDS?",
+    "length_in_seconds": 245,
+    "sound_event": {
+        "sound_id": "utopia:music_disc.are_we_still_friends",
+        "range": 64.0
+    }
+}

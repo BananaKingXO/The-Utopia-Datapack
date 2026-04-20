@@ -1,0 +1,9 @@
+{
+    "comparator_output": 11,
+    "description": "Ray Vaughn - XXXL Tee",
+    "length_in_seconds": 197,
+    "sound_event": {
+        "sound_id": "utopia:music_disc.xxxl_tee",
+        "range": 64.0
+    }
+}

@@ -1,0 +1,2 @@
+data modify storage utopia:mangrove_mosaic Slots append from entity @s Inventory[{id:"minecraft:painting",components:{"minecraft:painting/variant":"utopia:a_mangrove_mosaic"}}]
+function utopia:items/enchantment_blocks/replace/loop/mangrove_mosaic with storage utopia:mangrove_mosaic Slots[-1]

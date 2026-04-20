@@ -1,0 +1,2 @@
+data modify storage utopia:cut_netherite Slots append from entity @s Inventory[{id:"minecraft:painting",components:{"minecraft:painting/variant":"utopia:a_cut_netherite"}}]
+function utopia:items/enchantment_blocks/replace/loop/cut_netherite with storage utopia:cut_netherite Slots[-1]

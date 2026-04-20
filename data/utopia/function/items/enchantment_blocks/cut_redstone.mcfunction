@@ -1,0 +1,2 @@
+data modify storage utopia:cut_redstone Slots append from entity @s Inventory[{id:"minecraft:painting",components:{"minecraft:painting/variant":"utopia:a_cut_redstone"}}]
+function utopia:items/enchantment_blocks/replace/loop/cut_redstone with storage utopia:cut_redstone Slots[-1]

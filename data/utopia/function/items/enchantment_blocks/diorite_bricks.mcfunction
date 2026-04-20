@@ -1,0 +1,2 @@
+data modify storage utopia:diorite_bricks Slots append from entity @s Inventory[{id:"minecraft:painting",components:{"minecraft:painting/variant":"utopia:a_diorite_bricks"}}]
+function utopia:items/enchantment_blocks/replace/loop/diorite_bricks with storage utopia:diorite_bricks Slots[-1]

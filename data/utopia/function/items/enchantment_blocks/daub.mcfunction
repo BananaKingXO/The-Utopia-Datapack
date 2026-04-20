@@ -1,0 +1,2 @@
+data modify storage utopia:daub Slots append from entity @s Inventory[{id:"minecraft:painting",components:{"minecraft:painting/variant":"utopia:a_daub"}}]
+function utopia:items/enchantment_blocks/replace/loop/daub with storage utopia:daub Slots[-1]

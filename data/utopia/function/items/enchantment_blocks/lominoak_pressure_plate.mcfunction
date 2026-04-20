@@ -1,0 +1,2 @@
+data modify storage utopia:lominoak_pressure_plate Slots append from entity @s Inventory[{id:"minecraft:painting",components:{"minecraft:painting/variant":"utopia:a_lominoak_pressure_plate"}}]
+function utopia:items/enchantment_blocks/replace/loop/lominoak_pressure_plate with storage utopia:lominoak_pressure_plate Slots[-1]

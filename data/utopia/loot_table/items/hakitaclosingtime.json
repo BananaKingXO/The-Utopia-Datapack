@@ -1,0 +1,25 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:music_disc_11",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:jukebox_playable": {
+                  "song": "utopia:hakitaclosingtime",
+                  "show_in_tooltip": true
+                },
+                "minecraft:item_model": "utopia:music_disc_hakitaclosingtime"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

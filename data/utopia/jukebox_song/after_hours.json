@@ -1,0 +1,9 @@
+{
+    "comparator_output": 11,
+    "description": "The Weeknd - After Hours",
+    "length_in_seconds": 361,
+    "sound_event": {
+        "sound_id": "utopia:music_disc.after_hours",
+        "range": 64.0
+    }
+}

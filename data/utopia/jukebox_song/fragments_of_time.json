@@ -1,0 +1,11 @@
+{
+    "sound_event": {
+      "sound_id": "utopia:music_disc.fragments_of_time"
+  },
+    "description": {
+      "text": "Daft Punk - Fragments of Time"
+    },
+    "length_in_seconds": 280.0,
+    "comparator_output": 5
+  }
+  

@@ -1,0 +1,2 @@
+data modify storage utopia:calcite_brick_slab Slots append from entity @s Inventory[{id:"minecraft:painting",components:{"minecraft:painting/variant":"utopia:a_calcite_brick_slab"}}]
+function utopia:items/enchantment_blocks/replace/loop/calcite_brick_slab with storage utopia:calcite_brick_slab Slots[-1]

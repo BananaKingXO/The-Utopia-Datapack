@@ -1,0 +1,28 @@
+{
+  "criteria": {
+    "join": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "background": "minecraft:gui/advancements/backgrounds/stone",
+    "description": {
+      "translate": "Welcome to The Utopia!"
+    },
+    "icon": {
+      "count": 1,
+      "id": "minecraft:purple_concrete"
+    },
+    "show_toast": false,
+    "title": {
+      "translate": "The Utopia"
+    }
+  },
+  "requirements": [
+    [
+      "join"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

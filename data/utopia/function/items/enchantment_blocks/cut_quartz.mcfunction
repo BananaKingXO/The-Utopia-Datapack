@@ -1,0 +1,2 @@
+data modify storage utopia:cut_quartz Slots append from entity @s Inventory[{id:"minecraft:painting",components:{"minecraft:painting/variant":"utopia:a_cut_quartz"}}]
+function utopia:items/enchantment_blocks/replace/loop/cut_quartz with storage utopia:cut_quartz Slots[-1]

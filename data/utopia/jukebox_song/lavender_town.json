@@ -1,0 +1,9 @@
+{
+    "comparator_output": 11,
+    "description": "Pokémon - Lavender Town",
+    "length_in_seconds": 161,
+    "sound_event": {
+        "sound_id": "utopia:music_disc.lavender_town",
+        "range": 64.0
+    }
+}

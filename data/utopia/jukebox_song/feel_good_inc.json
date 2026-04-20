@@ -1,0 +1,9 @@
+{
+    "comparator_output": 11,
+    "description": "Gorillaz - Feel Good Inc.",
+    "length_in_seconds": 222,
+    "sound_event": {
+        "sound_id": "utopia:music_disc.feel_good_inc",
+        "range": 64.0
+    }
+}

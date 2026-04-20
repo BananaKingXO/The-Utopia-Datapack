@@ -1,0 +1,59 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:netherite_sword",
+            "functions": [
+              {
+                "function": "minecraft:set_components",
+                "components": {
+                  "minecraft:custom_model_data": 2560
+                }
+              },
+              {
+                "function": "minecraft:set_count",
+                "count": 1
+              },
+              {
+                "function": "minecraft:set_attributes",
+                "modifiers": [
+                  {
+                    "id": "entity_interaction_range",
+                    "attribute": "minecraft:player.entity_interaction_range",
+                    "amount": 1.15,
+                    "operation": "add_value",
+                    "slot": "mainhand"
+                  },
+                  {
+                    "id": "attack_damage",
+                    "attribute": "minecraft:generic.attack_damage",
+                    "amount": 6,
+                    "operation": "add_value",
+                    "slot": "mainhand"
+                  },
+                  {
+                    "id": "attack_speed",
+                    "attribute": "minecraft:generic.attack_speed",
+                    "amount": -0.8,
+                    "operation": "add_value",
+                    "slot": "mainhand"
+                  }
+                ],
+                "replace": true
+              },
+              {
+                "function": "minecraft:set_name",
+                "entity": "this",
+                "target": "item_name",
+                "name": "ᴀʀᴇѕ᾽ ѕᴘᴇᴀʀ"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

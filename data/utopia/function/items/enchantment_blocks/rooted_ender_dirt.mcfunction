@@ -1,0 +1,2 @@
+data modify storage utopia:rooted_ender_dirt Slots append from entity @s Inventory[{id:"minecraft:painting",components:{"minecraft:painting/variant":"utopia:a_rooted_ender_dirt"}}]
+function utopia:items/enchantment_blocks/replace/loop/rooted_ender_dirt with storage utopia:rooted_ender_dirt Slots[-1]

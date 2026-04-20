@@ -1,0 +1,32 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:paper",
+      "components": {
+        "minecraft:custom_model_data": {
+          "floats": [
+            10026
+          ]
+        }
+      }
+    },
+    "title": "Michael Mouse",
+    "description": "Purchase a MichaelFantastic Plushie",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "utopia:root",
+  "criteria": {
+    "plushiebuy": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "plushiebuy"
+    ]
+  ],
+  "rewards": {
+    "experience": 40
+  }
+}

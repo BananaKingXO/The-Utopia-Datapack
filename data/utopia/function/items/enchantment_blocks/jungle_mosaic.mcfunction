@@ -1,0 +1,2 @@
+data modify storage utopia:jungle_mosaic Slots append from entity @s Inventory[{id:"minecraft:painting",components:{"minecraft:painting/variant":"utopia:a_jungle_mosaic"}}]
+function utopia:items/enchantment_blocks/replace/loop/jungle_mosaic with storage utopia:jungle_mosaic Slots[-1]

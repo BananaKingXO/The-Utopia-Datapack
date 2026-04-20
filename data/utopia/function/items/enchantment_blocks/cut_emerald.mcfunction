@@ -1,0 +1,2 @@
+data modify storage utopia:cut_emerald Slots append from entity @s Inventory[{id:"minecraft:painting",components:{"minecraft:painting/variant":"utopia:a_cut_emerald"}}]
+function utopia:items/enchantment_blocks/replace/loop/cut_emerald with storage utopia:cut_emerald Slots[-1]

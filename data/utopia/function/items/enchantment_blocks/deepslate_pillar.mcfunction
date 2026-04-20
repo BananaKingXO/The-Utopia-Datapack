@@ -1,0 +1,2 @@
+data modify storage utopia:deepslate_pillar Slots append from entity @s Inventory[{id:"minecraft:painting",components:{"minecraft:painting/variant":"utopia:a_deepslate_pillar"}}]
+function utopia:items/enchantment_blocks/replace/loop/deepslate_pillar with storage utopia:deepslate_pillar Slots[-1]

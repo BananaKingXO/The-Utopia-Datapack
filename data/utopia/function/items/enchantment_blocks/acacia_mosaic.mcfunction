@@ -1,0 +1,2 @@
+data modify storage utopia:acacia_mosaic Slots append from entity @s Inventory[{id:"minecraft:painting",components:{"minecraft:painting/variant":"utopia:a_acacia_mosaic"}}]
+function utopia:items/enchantment_blocks/replace/loop/acacia_mosaic with storage utopia:acacia_mosaic Slots[-1]

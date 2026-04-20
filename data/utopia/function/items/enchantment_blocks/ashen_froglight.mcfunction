@@ -1,0 +1,2 @@
+data modify storage utopia:ashen_froglight Slots append from entity @s Inventory[{id:"minecraft:painting",components:{"minecraft:painting/variant":"utopia:a_ashen_froglight"}}]
+function utopia:items/enchantment_blocks/replace/loop/ashen_froglight with storage utopia:ashen_froglight Slots[-1]

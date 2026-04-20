@@ -1,0 +1,389 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "craftengine:item",
+          "name": "utopia:bananakingxo_plushie",
+          "weight": 10
+        },
+        {
+          "type": "craftengine:item",
+          "name": "utopia:femboy_bananakingxo_plushie",
+          "weight": 10
+        },
+        {
+          "type": "craftengine:item",
+          "name": "utopia:alligator_plushie",
+          "weight": 10
+        },
+        {
+          "type": "craftengine:item",
+          "name": "utopia:astra_plushie",
+          "weight": 10
+        },
+        {
+          "type": "craftengine:item",
+          "name": "utopia:ambient_plushie",
+          "weight": 10
+        },
+        {
+          "type": "craftengine:item",
+          "name": "utopia:caine_plushie",
+          "weight": 10
+        },
+        {
+          "type": "craftengine:item",
+          "name": "utopia:cubert_plushie",
+          "weight": 10
+        },
+        {
+          "type": "craftengine:item",
+          "name": "utopia:dakones_plushie",
+          "weight": 10
+        },
+        {
+          "type": "craftengine:item",
+          "name": "utopia:derpymedalla_plushie",
+          "weight": 10
+        },
+        {
+          "type": "craftengine:item",
+          "name": "utopia:diviner_plushie",
+          "weight": 10
+        },
+        {
+          "type": "craftengine:item",
+          "name": "utopia:diviner_plushie_new",
+          "weight": 10
+        },
+        {
+          "type": "craftengine:item",
+          "name": "utopia:ena_bbq_plushie",
+          "weight": 10
+        },
+        {
+          "type": "craftengine:item",
+          "name": "utopia:ena_plushie",
+          "weight": 10
+        },
+        {
+          "type": "craftengine:item",
+          "name": "utopia:envoy_plushie",
+          "weight": 10
+        },
+        {
+          "type": "craftengine:item",
+          "name": "utopia:envoy_plushie_classic",
+          "weight": 10
+        },
+        {
+          "type": "craftengine:item",
+          "name": "utopia:evpxnfgyrl_plushie",
+          "weight": 10
+        },
+        {
+          "type": "craftengine:item",
+          "name": "utopia:extraplayer2_plushie",
+          "weight": 10
+        },
+        {
+          "type": "craftengine:item",
+          "name": "utopia:fire_fox_555_plushie",
+          "weight": 10
+        },
+        {
+          "type": "craftengine:item",
+          "name": "utopia:flishie_plushie",
+          "weight": 10
+        },
+        {
+          "type": "craftengine:item",
+          "name": "utopia:gabriel_plushie",
+          "weight": 10
+        },
+        {
+          "type": "craftengine:item",
+          "name": "utopia:gangle_normal_mask_plushie",
+          "weight": 10
+        },
+        {
+          "type": "craftengine:item",
+          "name": "utopia:gangle_comedy_mask_plushie",
+          "weight": 10
+        },
+        {
+          "type": "craftengine:item",
+          "name": "utopia:gangle_spudsy_normal_mask_plushie",
+          "weight": 10
+        },
+        {
+          "type": "craftengine:item",
+          "name": "utopia:gangle_spudsy_tragedy_mask_plushie",
+          "weight": 10
+        },
+        {
+          "type": "craftengine:item",
+          "name": "utopia:gangle_tragedy_mask_plushie",
+          "weight": 10
+        },
+        {
+          "type": "craftengine:item",
+          "name": "utopia:guardian_plushie",
+          "weight": 10
+        },
+        {
+          "type": "craftengine:item",
+          "name": "utopia:guardian_plushie_classic",
+          "weight": 10
+        },
+        {
+          "type": "craftengine:item",
+          "name": "utopia:happpysnowman_plushie",
+          "weight": 10
+        },
+        {
+          "type": "craftengine:item",
+          "name": "utopia:helios_plushie",
+          "weight": 10
+        },
+        {
+          "type": "craftengine:item",
+          "name": "utopia:ink_sync_plushie",
+          "weight": 10
+        },
+        {
+          "type": "craftengine:item",
+          "name": "utopia:jax_maid_plushie",
+          "weight": 10
+        },
+        {
+          "type": "craftengine:item",
+          "name": "utopia:jax_mafia_plushie",
+          "weight": 10
+        },
+        {
+          "type": "craftengine:item",
+          "name": "utopia:jax_plushie",
+          "weight": 10
+        },
+        {
+          "type": "craftengine:item",
+          "name": "utopia:jax_spudsy_plushie",
+          "weight": 10
+        },
+        {
+          "type": "craftengine:item",
+          "name": "utopia:kinger_plushie",
+          "weight": 10
+        },
+        {
+          "type": "craftengine:item",
+          "name": "utopia:kinger_mafia_plushie",
+          "weight": 10
+        },
+        {
+          "type": "craftengine:item",
+          "name": "utopia:kris_plushie",
+          "weight": 10
+        },
+        {
+          "type": "craftengine:item",
+          "name": "utopia:krislw_plushie",
+          "weight": 10
+        },
+        {
+          "type": "craftengine:item",
+          "name": "utopia:lawkeeper_plushie",
+          "weight": 10
+        },
+        {
+          "type": "craftengine:item",
+          "name": "utopia:lawkeeper_plushie_classic",
+          "weight": 10
+        },
+        {
+          "type": "craftengine:item",
+          "name": "utopia:lebronjames_plushie",
+          "weight": 10
+        },
+        {
+          "type": "craftengine:item",
+          "name": "utopia:lovele_plushie",
+          "weight": 10
+        },
+        {
+          "type": "craftengine:item",
+          "name": "utopia:lunastartune_plushie",
+          "weight": 10
+        },
+        {
+          "type": "craftengine:item",
+          "name": "utopia:marina_plushie",
+          "weight": 10
+        },
+        {
+          "type": "craftengine:item",
+          "name": "utopia:medalla_plushie",
+          "weight": 10
+        },
+        {
+          "type": "craftengine:item",
+          "name": "utopia:michael_plushie",
+          "weight": 10
+        },
+        {
+          "type": "craftengine:item",
+          "name": "utopia:mirage_plushie",
+          "weight": 10
+        },
+        {
+          "type": "craftengine:item",
+          "name": "utopia:mrkodiak_plushie",
+          "weight": 10
+        },
+        {
+          "type": "craftengine:item",
+          "name": "utopia:n_plushie",
+          "weight": 10
+        },
+        {
+          "type": "craftengine:item",
+          "name": "utopia:pclipz_plushie",
+          "weight": 10
+        },
+        {
+          "type": "craftengine:item",
+          "name": "utopia:pomni_plushie",
+          "weight": 10
+        },
+        {
+          "type": "craftengine:item",
+          "name": "utopia:pomnimafia_plushie",
+          "weight": 10
+        },
+        {
+          "type": "craftengine:item",
+          "name": "utopia:pomnispudsy_plushie",
+          "weight": 10
+        },
+        {
+          "type": "craftengine:item",
+          "name": "utopia:ralsei_plushie",
+          "weight": 10
+        },
+        {
+          "type": "craftengine:item",
+          "name": "utopia:ralseihat_plushie",
+          "weight": 10
+        },
+        {
+          "type": "craftengine:item",
+          "name": "utopia:ranshroom_plushie",
+          "weight": 10
+        },
+        {
+          "type": "craftengine:item",
+          "name": "utopia:roaring_knight_plushie",
+          "weight": 10
+        },
+        {
+          "type": "craftengine:item",
+          "name": "utopia:shockeriscool_plushie",
+          "weight": 10
+        },
+        {
+          "type": "craftengine:item",
+          "name": "utopia:sm0il_plushie",
+          "weight": 10
+        },
+        {
+          "type": "craftengine:item",
+          "name": "utopia:snow_plushie",
+          "weight": 10
+        },
+        {
+          "type": "craftengine:item",
+          "name": "utopia:squeakydragon_plushie",
+          "weight": 10
+        },
+        {
+          "type": "craftengine:item",
+          "name": "utopia:sundae_plushie",
+          "weight": 10
+        },
+        {
+          "type": "craftengine:item",
+          "name": "utopia:susie_plushie",
+          "weight": 10
+        },
+        {
+          "type": "craftengine:item",
+          "name": "utopia:susielw_plushie",
+          "weight": 10
+        },
+        {
+          "type": "craftengine:item",
+          "name": "utopia:swordmachine_plushie",
+          "weight": 10
+        },
+        {
+          "type": "craftengine:item",
+          "name": "utopia:taffytwiggy_plushie",
+          "weight": 10
+        },
+        {
+          "type": "craftengine:item",
+          "name": "utopia:tenna_plushie",
+          "weight": 10
+        },
+        {
+          "type": "craftengine:item",
+          "name": "utopia:theweekndah_plushie",
+          "weight": 10
+        },
+        {
+          "type": "craftengine:item",
+          "name": "utopia:uzi_plushie",
+          "weight": 10
+        },
+        {
+          "type": "craftengine:item",
+          "name": "utopia:v1_plushie",
+          "weight": 10
+        },
+        {
+          "type": "craftengine:item",
+          "name": "utopia:v2_plushie",
+          "weight": 10
+        },
+        {
+          "type": "craftengine:item",
+          "name": "utopia:v_plushie",
+          "weight": 10
+        },
+        {
+          "type": "craftengine:item",
+          "name": "utopia:violet_plushie",
+          "weight": 10
+        },
+        {
+          "type": "craftengine:item",
+          "name": "utopia:yurmom10_plushie",
+          "weight": 10
+        },
+        {
+          "type": "craftengine:item",
+          "name": "utopia:zooble_plushie",
+          "weight": 10
+        },
+        {
+          "type": "craftengine:item",
+          "name": "utopia:zooble_spudsy_plushie",
+          "weight": 10
+        }
+      ]
+    }
+  ]
+}

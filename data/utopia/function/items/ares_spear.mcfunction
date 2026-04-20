@@ -1,0 +1,1 @@
+loot give @s loot utopia:items/ares_spear

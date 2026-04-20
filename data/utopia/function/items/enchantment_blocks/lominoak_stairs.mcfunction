@@ -1,0 +1,2 @@
+data modify storage utopia:lominoak_stairs Slots append from entity @s Inventory[{id:"minecraft:painting",components:{"minecraft:painting/variant":"utopia:a_lominoak_stairs"}}]
+function utopia:items/enchantment_blocks/replace/loop/lominoak_stairs with storage utopia:lominoak_stairs Slots[-1]

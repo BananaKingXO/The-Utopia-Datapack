@@ -1,0 +1,1 @@
+execute if entity @n[nbt={Inventory:[{id:"minecraft:painting"}]}] run function utopia:items/enchantment_blocks/checkpainting

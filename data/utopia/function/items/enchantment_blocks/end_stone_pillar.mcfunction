@@ -1,0 +1,2 @@
+data modify storage utopia:end_stone_pillar Slots append from entity @s Inventory[{id:"minecraft:painting",components:{"minecraft:painting/variant":"utopia:a_end_stone_pillar"}}]
+function utopia:items/enchantment_blocks/replace/loop/end_stone_pillar with storage utopia:end_stone_pillar Slots[-1]

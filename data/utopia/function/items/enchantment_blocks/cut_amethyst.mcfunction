@@ -1,0 +1,2 @@
+data modify storage utopia:cut_amethyst Slots append from entity @s Inventory[{id:"minecraft:painting",components:{"minecraft:painting/variant":"utopia:a_cut_amethyst"}}]
+function utopia:items/enchantment_blocks/replace/loop/cut_amethyst with storage utopia:cut_amethyst Slots[-1]

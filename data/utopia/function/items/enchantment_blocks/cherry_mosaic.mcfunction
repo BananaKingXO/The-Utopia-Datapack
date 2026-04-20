@@ -1,0 +1,2 @@
+data modify storage utopia:cherry_mosaic Slots append from entity @s Inventory[{id:"minecraft:painting",components:{"minecraft:painting/variant":"utopia:a_cherry_mosaic"}}]
+function utopia:items/enchantment_blocks/replace/loop/cherry_mosaic with storage utopia:cherry_mosaic Slots[-1]

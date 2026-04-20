@@ -1,0 +1,9 @@
+{
+    "comparator_output": 11,
+    "description": "54 Ultra - Upside Down",
+    "length_in_seconds": 197,
+    "sound_event": {
+        "sound_id": "utopia:music_disc.upside_down",
+        "range": 64.0
+    }
+}

@@ -1,0 +1,2 @@
+data modify storage utopia:cut_diamond Slots append from entity @s Inventory[{id:"minecraft:painting",components:{"minecraft:painting/variant":"utopia:a_cut_diamond"}}]
+function utopia:items/enchantment_blocks/replace/loop/cut_diamond with storage utopia:cut_diamond Slots[-1]

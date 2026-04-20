@@ -1,0 +1,2 @@
+data modify storage utopia:crimson_mosaic Slots append from entity @s Inventory[{id:"minecraft:painting",components:{"minecraft:painting/variant":"utopia:a_crimson_mosaic"}}]
+function utopia:items/enchantment_blocks/replace/loop/crimson_mosaic with storage utopia:crimson_mosaic Slots[-1]

@@ -1,0 +1,9 @@
+{
+  "description": "Kevin MacLeod - Sneaky Snitch",
+  "comparator_output": 11,
+  "length_in_seconds": 236,
+  "sound_event": {
+    "sound_id": "utopia:music_disc.sneaky_snitch",
+    "range": 128
+  }
+}

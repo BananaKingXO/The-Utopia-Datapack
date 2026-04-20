@@ -1,0 +1,32 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:paper",
+      "components": {
+        "minecraft:custom_model_data": {
+          "floats": [
+            10110
+          ]
+        }
+      }
+    },
+    "title": "Hey, Diviner?",
+    "description": "Purchase a Diviner Plushie",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "utopia:root",
+  "criteria": {
+    "diviner": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "diviner"
+    ]
+  ],
+  "rewards": {
+    "experience": 40
+  }
+}

@@ -1,0 +1,1 @@
+loot give @s loot utopia:items/banana

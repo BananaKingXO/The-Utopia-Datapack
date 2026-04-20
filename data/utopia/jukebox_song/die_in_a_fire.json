@@ -1,0 +1,9 @@
+{
+    "comparator_output": 11,
+    "description": "The Living Tombstone - Die In A Fire",
+    "length_in_seconds": 185,
+    "sound_event": {
+        "sound_id": "utopia:music_disc.die_in_a_fire",
+        "range": 64.0
+    }
+}

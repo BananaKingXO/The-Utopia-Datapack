@@ -1,0 +1,2 @@
+data modify storage utopia:lominoak_fence_gate Slots append from entity @s Inventory[{id:"minecraft:painting",components:{"minecraft:painting/variant":"utopia:a_lominoak_fence_gate"}}]
+function utopia:items/enchantment_blocks/replace/loop/lominoak_fence_gate with storage utopia:lominoak_fence_gate Slots[-1]

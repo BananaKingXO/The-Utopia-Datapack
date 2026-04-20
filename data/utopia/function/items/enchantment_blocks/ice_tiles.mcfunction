@@ -1,0 +1,2 @@
+data modify storage utopia:ice_tiles Slots append from entity @s Inventory[{id:"minecraft:painting",components:{"minecraft:painting/variant":"utopia:a_ice_tiles"}}]
+function utopia:items/enchantment_blocks/replace/loop/ice_tiles with storage utopia:ice_tiles Slots[-1]

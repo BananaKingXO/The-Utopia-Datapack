@@ -1,0 +1,2 @@
+data modify storage utopia:iron_bricks Slots append from entity @s Inventory[{id:"minecraft:painting",components:{"minecraft:painting/variant":"utopia:a_iron_bricks"}}]
+function utopia:items/enchantment_blocks/replace/loop/iron_bricks with storage utopia:iron_bricks Slots[-1]

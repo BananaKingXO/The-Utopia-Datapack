@@ -1,0 +1,48 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:iron_sword",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:item_model": "utopia:kodiak_claw",
+                "minecraft:lore": [
+                  {
+                    "text": "ѕᴄᴀʟᴇ ᴡᴀʟʟѕ ʟɪᴋᴇ ᴀ ѕᴘɪᴅᴇʀ..",
+                    "color": "#d69d00",
+                    "italic": false
+                  },
+                  {
+                    "text": "ʙᴜᴛ ᴀ ʙᴇᴀʀ",
+                    "color": "#d69d00",
+                    "italic": false
+                  },
+                  "",
+                  {
+                    "text": "- ᴅᴇᴅɪᴄᴀᴛᴇᴅ ᴛᴏ ᴍʀᴋᴏᴅɪᴀᴋ -",
+                    "color": "#13e736",
+                    "italic": false
+                  }
+                ]
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "item": "",
+              "entity": "this",
+              "name": {
+                "text": "Kodiak Claw"
+              },
+              "target": "item_name"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

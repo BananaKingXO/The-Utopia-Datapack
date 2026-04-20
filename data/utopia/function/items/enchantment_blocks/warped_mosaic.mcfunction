@@ -1,0 +1,2 @@
+data modify storage utopia:warped_mosaic Slots append from entity @s Inventory[{id:"minecraft:painting",components:{"minecraft:painting/variant":"utopia:a_warped_mosaic"}}]
+function utopia:items/enchantment_blocks/replace/loop/warped_mosaic with storage utopia:warped_mosaic Slots[-1]

@@ -1,0 +1,2 @@
+data modify storage utopia:altar_of_the_sacred Slots append from entity @s Inventory[{id:"minecraft:painting",components:{"minecraft:painting/variant":"utopia:a_altar_of_the_sacred"}}]
+function utopia:items/enchantment_blocks/replace/loop/altar_of_the_sacred with storage utopia:altar_of_the_sacred Slots[-1]

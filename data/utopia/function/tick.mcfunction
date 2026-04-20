@@ -1,0 +1,1 @@
+execute if entity @n[nbt={SelectedItem:{components:{"minecraft:item_model":"utopia:kodiak_claw"}}}] run function utopia:claw

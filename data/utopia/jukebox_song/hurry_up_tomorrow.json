@@ -1,0 +1,9 @@
+{
+    "comparator_output": 11,
+    "description": "The Weeknd - Hurry Up Tomorrow",
+    "length_in_seconds": 291,
+    "sound_event": {
+        "sound_id": "utopia:music_disc.hurry_up_tomorrow",
+        "range": 64.0
+    }
+}
