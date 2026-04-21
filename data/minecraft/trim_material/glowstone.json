@@ -3,7 +3,5 @@
   "description": {
     "color": "#f5c75c",
     "translate": "trim_material.example.glowstone"
-  },
-  "ingredient": "minecraft:glowstone_dust",
-  "item_model_index": 0.93
+  }
 }

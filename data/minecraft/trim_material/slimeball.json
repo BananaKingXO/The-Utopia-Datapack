@@ -3,7 +3,5 @@
   "description": {
     "color": "#87d08e",
     "translate": "trim_material.example.slime"
-  },
-  "ingredient": "minecraft:slime_ball",
-  "item_model_index": 0.91
+  }
 }

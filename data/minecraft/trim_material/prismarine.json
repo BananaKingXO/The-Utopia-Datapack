@@ -3,7 +3,5 @@
   "description": {
     "color": "#559a8a",
     "translate": "trim_material.example.prismarine"
-  },
-  "ingredient": "minecraft:prismarine_shard",
-  "item_model_index": 0.88
+  }
 }
