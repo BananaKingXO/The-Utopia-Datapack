@@ -1,0 +1,13 @@
+{
+  "asset_id": "utopia:starry_wilds",
+  "height": 2,
+  "width": 2,
+  "author": {
+    "text": "The Utopia",
+    "color": "gray"
+  },
+  "title": {
+    "text": "Starry Wilds",
+    "color": "yellow"
+  }
+}

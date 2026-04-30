@@ -1,0 +1,13 @@
+{
+  "asset_id": "utopia:ancient_castle",
+  "height": 2,
+  "width": 2,
+  "author": {
+    "text": "The Utopia",
+    "color": "gray"
+  },
+  "title": {
+    "text": "Ancient Sins",
+    "color": "yellow"
+  }
+}

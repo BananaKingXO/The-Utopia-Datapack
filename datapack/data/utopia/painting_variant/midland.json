@@ -1,0 +1,13 @@
+{
+  "asset_id": "utopia:midland",
+  "height": 1,
+  "width": 2,
+  "author": {
+    "text": "The Utopia",
+    "color": "gray"
+  },
+  "title": {
+    "text": "Midland",
+    "color": "yellow"
+  }
+}

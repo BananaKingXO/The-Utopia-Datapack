@@ -1,0 +1,13 @@
+{
+  "asset_id": "utopia:hoarfrost",
+  "height": 1,
+  "width": 2,
+  "author": {
+    "text": "The Utopia",
+    "color": "gray"
+  },
+  "title": {
+    "text": "Hoarfrost",
+    "color": "yellow"
+  }
+}

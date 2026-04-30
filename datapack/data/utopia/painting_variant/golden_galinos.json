@@ -1,0 +1,13 @@
+{
+  "asset_id": "utopia:golden_galinos",
+  "height": 1,
+  "width": 1,
+  "author": {
+    "text": "The Utopia",
+    "color": "gray"
+  },
+  "title": {
+    "text": "Golden Galinos",
+    "color": "yellow"
+  }
+}
