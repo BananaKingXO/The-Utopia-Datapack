@@ -1,0 +1,13 @@
+{
+  "asset_id": "utopia:barry",
+  "height": 2,
+  "width": 2,
+  "author": {
+    "text": "The Utopia",
+    "color": "gray"
+  },
+  "title": {
+    "text": "Barry",
+    "color": "yellow"
+  }
+}
