@@ -1,0 +1,9 @@
+{
+    "comparator_output": 11,
+    "description": "Laufey - Too Little, Too Late",
+    "length_in_seconds": 233,
+    "sound_event": {
+        "sound_id": "utopia:music_disc.too_little_too_late",
+        "range": 64.0
+    }
+}

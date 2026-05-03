@@ -1,0 +1,9 @@
+{
+    "comparator_output": 11,
+    "description": "Kanye West - Flashing Lights",
+    "length_in_seconds": 237,
+    "sound_event": {
+        "sound_id": "utopia:music_disc.flashing_lights",
+        "range": 64.0
+    }
+}

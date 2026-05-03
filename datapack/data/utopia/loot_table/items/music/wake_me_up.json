@@ -1,0 +1,29 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:music_disc_creator_music_box",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:jukebox_playable": "utopia:wake_me_up",
+                                "minecraft:item_model": "utopia:music_disc_wake_me_up",
+                                "minecraft:lore": [
+                                    {
+                                        "text": "ᴍʏѕᴛɪᴄ ᴀɢᴇ",
+                                        "color": "gray"
+                                    }
+                                ]
+                            },
+                            "conditions": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

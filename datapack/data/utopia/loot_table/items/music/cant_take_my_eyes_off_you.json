@@ -1,23 +1,29 @@
 {
-  "pools": [
-    {
-      "rolls": 1,
-      "entries": [
+    "pools": [
         {
-          "type": "minecraft:item",
-          "name": "minecraft:music_disc_creator_music_box",
-          "functions": [
-            {
-              "function": "minecraft:set_components",
-              "components": {
-                "minecraft:jukebox_playable": "utopia:cant_take_my_eyes_off_you",
-                "minecraft:item_model": "utopia:music_disc_cant_take_my_eyes_off_you"
-              },
-              "conditions": []
-            }
-          ]
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:music_disc_creator_music_box",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:jukebox_playable": "utopia:cant_take_my_eyes_off_you",
+                                "minecraft:item_model": "utopia:music_disc_cant_take_my_eyes_off_you",
+                                "minecraft:lore": [
+                                    {
+                                        "text": "ᴀɴᴄɪᴇɴᴛ ѕɪɴѕ",
+                                        "color": "gray"
+                                    }
+                                ]
+                            },
+                            "conditions": []
+                        }
+                    ]
+                }
+            ]
         }
-      ]
-    }
-  ]
+    ]
 }

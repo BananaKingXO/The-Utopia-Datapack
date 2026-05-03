@@ -1,0 +1,9 @@
+{
+    "comparator_output": 11,
+    "description": "Duran Duran - INVISIBLE",
+    "length_in_seconds": 191,
+    "sound_event": {
+        "sound_id": "utopia:music_disc.invisible",
+        "range": 64.0
+    }
+}

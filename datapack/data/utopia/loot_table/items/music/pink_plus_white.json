@@ -1,0 +1,29 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:music_disc_creator_music_box",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:jukebox_playable": "utopia:pink_plus_white",
+                                "minecraft:item_model": "utopia:music_disc_pink_plus_white",
+                                "minecraft:lore": [
+                                    {
+                                        "text": "ᴠᴏɪᴅ ɪɴᴛᴇʀʟᴜᴅᴇ",
+                                        "color": "gray"
+                                    }
+                                ]
+                            },
+                            "conditions": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

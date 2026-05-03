@@ -1,0 +1,29 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:music_disc_creator_music_box",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:jukebox_playable": "utopia:coffin_nails",
+                                "minecraft:item_model": "utopia:music_disc_coffin_nails",
+                                "minecraft:lore": [
+                                    {
+                                        "text": "ꜰɪʀᴇ_ꜰᴏх_₅₅₅",
+                                        "color": "gray"
+                                    }
+                                ]
+                            },
+                            "conditions": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

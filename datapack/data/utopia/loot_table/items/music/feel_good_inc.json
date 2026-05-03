@@ -1,23 +1,29 @@
 {
-  "pools": [
-    {
-      "rolls": 1,
-      "entries": [
+    "pools": [
         {
-          "type": "minecraft:item",
-          "name": "minecraft:music_disc_creator_music_box",
-          "functions": [
-            {
-              "function": "minecraft:set_components",
-              "components": {
-                "minecraft:jukebox_playable": "utopia:feel_good_inc",
-                "minecraft:item_model": "utopia:music_disc_feel_good_inc"
-              },
-              "conditions": []
-            }
-          ]
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:music_disc_creator_music_box",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:jukebox_playable": "utopia:feel_good_inc",
+                                "minecraft:item_model": "utopia:music_disc_feel_good_inc",
+                                "minecraft:lore": [
+                                    {
+                                        "text": "ɢᴀᴍᴇʀѕʀᴜʟᴇ₁₃",
+                                        "color": "gray"
+                                    }
+                                ]
+                            },
+                            "conditions": []
+                        }
+                    ]
+                }
+            ]
         }
-      ]
-    }
-  ]
+    ]
 }

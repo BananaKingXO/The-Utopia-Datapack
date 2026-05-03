@@ -1,23 +1,29 @@
 {
-  "pools": [
-    {
-      "rolls": 1,
-      "entries": [
+    "pools": [
         {
-          "type": "minecraft:item",
-          "name": "minecraft:music_disc_creator_music_box",
-          "functions": [
-            {
-              "function": "minecraft:set_components",
-              "components": {
-                "minecraft:jukebox_playable": "utopia:die_in_a_fire",
-                "minecraft:item_model": "utopia:music_disc_die_in_a_fire"
-              },
-              "conditions": []
-            }
-          ]
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:music_disc_creator_music_box",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:jukebox_playable": "utopia:die_in_a_fire",
+                                "minecraft:item_model": "utopia:music_disc_die_in_a_fire",
+                                "minecraft:lore": [
+                                    {
+                                        "text": "ᴀɴᴄɪᴇɴᴛ ѕɪɴѕ",
+                                        "color": "gray"
+                                    }
+                                ]
+                            },
+                            "conditions": []
+                        }
+                    ]
+                }
+            ]
         }
-      ]
-    }
-  ]
+    ]
 }

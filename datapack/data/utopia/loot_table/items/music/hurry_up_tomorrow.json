@@ -1,23 +1,29 @@
 {
-  "pools": [
-    {
-      "rolls": 1,
-      "entries": [
+    "pools": [
         {
-          "type": "minecraft:item",
-          "name": "minecraft:music_disc_creator_music_box",
-          "functions": [
-            {
-              "function": "minecraft:set_components",
-              "components": {
-                "minecraft:jukebox_playable": "utopia:hurry_up_tomorrow",
-                "minecraft:item_model": "utopia:music_disc_hurry_up_tomorrow"
-              },
-              "conditions": []
-            }
-          ]
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:music_disc_creator_music_box",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:jukebox_playable": "utopia:hurry_up_tomorrow",
+                                "minecraft:item_model": "utopia:music_disc_hurry_up_tomorrow",
+                                "minecraft:lore": [
+                                    {
+                                        "text": "ʟᴇɢᴀᴄʏ ᴏꜰ ʀᴜɪɴ",
+                                        "color": "gray"
+                                    }
+                                ]
+                            },
+                            "conditions": []
+                        }
+                    ]
+                }
+            ]
         }
-      ]
-    }
-  ]
+    ]
 }

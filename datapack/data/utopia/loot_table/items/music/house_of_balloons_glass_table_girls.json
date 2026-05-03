@@ -1,0 +1,29 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:music_disc_creator_music_box",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:jukebox_playable": "utopia:house_of_balloons_glass_table_girls",
+                                "minecraft:item_model": "utopia:music_disc_house_of_balloons_glass_table_girls",
+                                "minecraft:lore": [
+                                    {
+                                        "text": "ᴍʏѕᴛɪᴄ ᴀɢᴇ",
+                                        "color": "gray"
+                                    }
+                                ]
+                            },
+                            "conditions": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

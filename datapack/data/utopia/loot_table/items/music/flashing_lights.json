@@ -1,0 +1,29 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:music_disc_creator_music_box",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:jukebox_playable": "utopia:flashing_lights",
+                                "minecraft:item_model": "utopia:music_disc_flashing_lights",
+                                "minecraft:lore": [
+                                    {
+                                        "text": "ᴇɴᴛɪᴛʏɪѕʙᴀᴄᴋɴᴏᴡ",
+                                        "color": "gray"
+                                    }
+                                ]
+                            },
+                            "conditions": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
