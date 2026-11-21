@@ -1,0 +1,9 @@
+{
+    "comparator_output": 11,
+    "description": "The Larping Tombstone - Looping The Rooms (Tombstone Ver.)",
+    "length_in_seconds": 150,
+    "sound_event": {
+        "sound_id": "utopia:music_disc.looping_the_rooms",
+        "range": 64.0
+    }
+}

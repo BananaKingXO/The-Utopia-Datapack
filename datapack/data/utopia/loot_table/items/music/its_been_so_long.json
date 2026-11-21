@@ -1,0 +1,28 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:music_disc_creator_music_box",
+          "modifier": [
+            {
+              "type": "minecraft:set_components",
+              "components": {
+                "minecraft:jukebox_playable": "utopia:its_been_so_long",
+                "minecraft:item_model": "utopia:music_disc_its_been_so_long",
+                "minecraft:lore": [
+                  {
+                    "text": "ɪɴᴋ_ѕʏɴᴄ",
+                    "color": "gray"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

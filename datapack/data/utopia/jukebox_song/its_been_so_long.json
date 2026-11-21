@@ -1,0 +1,9 @@
+{
+    "comparator_output": 11,
+    "description": "The Living Tombstone - It's Been So Long",
+    "length_in_seconds": 174,
+    "sound_event": {
+        "sound_id": "utopia:music_disc.its_been_so_long",
+        "range": 64.0
+    }
+}

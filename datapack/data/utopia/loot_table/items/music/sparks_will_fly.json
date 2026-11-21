@@ -1,0 +1,28 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:music_disc_creator_music_box",
+          "modifier": [
+            {
+              "type": "minecraft:set_components",
+              "components": {
+                "minecraft:jukebox_playable": "utopia:sparks_will_fly",
+                "minecraft:item_model": "utopia:music_disc_sparks_will_fly",
+                "minecraft:lore": [
+                  {
+                    "text": "ᴅᴇꜰᴀᴜʟᴛ_ᴅᴀɴ",
+                    "color": "gray"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

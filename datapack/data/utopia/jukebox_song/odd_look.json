@@ -1,0 +1,9 @@
+{
+    "comparator_output": 11,
+    "description": "Kavinsky, The Weeknd - Odd Look",
+    "length_in_seconds": 253,
+    "sound_event": {
+        "sound_id": "utopia:music_disc.odd_look",
+        "range": 64.0
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "comparator_output": 11,
+    "description": "The Weeknd - Professional",
+    "length_in_seconds": 368,
+    "sound_event": {
+        "sound_id": "utopia:music_disc.professional",
+        "range": 64.0
+    }
+}
