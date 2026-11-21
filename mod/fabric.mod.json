@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "utopia",
+  "version": "1.0.0",
+  "name": "The Utopia",
+  "description": "The Utopia'",
+  "authors": ["BananaKingXO"],
+  "contributors": [
+    "BananaKingXO"
+  ],
+  "contact": {
+    "homepage": "https://modrinth.com/datapack/stellarity",
+    "sources": "https://github.com/Prismatic-Shards/Stellarity",
+    "issues": "http://discord.prismaticshards.xyz"
+  },
+  "license": "LicenseRef-Custom",
+  "icon": "pack.png",
+  "environment": "*",
+  "depends": {
+    "fabric-resource-loader-v0": "*"
+  },
+  "custom": {
+    "modmenu": {
+      "links": {
+        "modmenu.discord": "http://discord.prismaticshards.xyz"
+      },
+      "update_checker": true
+    }
+  }
+}

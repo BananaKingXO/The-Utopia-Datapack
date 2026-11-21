@@ -6,9 +6,10 @@
                 {
                     "type": "minecraft:item",
                     "name": "minecraft:music_disc_creator_music_box",
-                    "functions": [
+                    "modifier"
+: [
                         {
-                            "function": "minecraft:set_components",
+                            "type": "minecraft:set_components",
                             "components": {
                                 "minecraft:jukebox_playable": "utopia:flashing_lights",
                                 "minecraft:item_model": "utopia:music_disc_flashing_lights",

@@ -1,0 +1,9 @@
+{
+    "comparator_output": 11,
+    "description": "infizero.mp4 - MOVES LIKE GASTER",
+    "length_in_seconds": 200,
+    "sound_event": {
+        "sound_id": "utopia:music_disc.im_wd_gaster",
+        "range": 64.0
+    }
+}

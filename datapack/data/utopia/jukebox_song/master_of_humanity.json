@@ -1,0 +1,9 @@
+{
+    "comparator_output": 11,
+    "description": "Horror Skunx - Master Humanity (Lord Verity)",
+    "length_in_seconds": 140,
+    "sound_event": {
+        "sound_id": "utopia:music_disc.master_of_humanity",
+        "range": 64.0
+    }
+}

@@ -1,0 +1,31 @@
+modLoader = "lowcodefml"
+loaderVersion = "[1,)"
+license = "LicenseRef-Custom"
+showAsResourcePack = false
+issueTrackerURL = "http://discord.prismaticshards.xyz"
+
+[[mods]]
+modId = "utopia"
+version = "1.0.0"
+displayName = "The Utopia"
+description = '''
+	Pack for The Utopia'
+	'''
+logoFile = "pack.png"
+logoBlur = false
+updateJSONURL = "https://api.modrinth.com/updates/bZgeDzN8/forge_updates.json"
+credits = "BananaKingXO"
+authors = "BananaKingXO"
+
+[[dependencies.utopia]]
+modId = "forge"
+mandatory = false
+versionRange = "[51,)"
+ordering = "NONE"
+side = "BOTH"
+[[dependencies.utopia]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.21.11,26.3]"
+ordering = "NONE"
+side = "BOTH"

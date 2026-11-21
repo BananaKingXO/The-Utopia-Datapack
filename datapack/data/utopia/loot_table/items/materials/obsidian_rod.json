@@ -10,9 +10,10 @@
           "name": "minecraft:amethyst_shard",
           "weight": 1,
           "conditions": [],
-          "functions": [
+          "modifier"
+: [
             {
-              "function": "minecraft:set_components",
+              "type": "minecraft:set_components",
               "components": {
                 "minecraft:item_model": "utopia:obsidian_rod",
                 "minecraft:item_name": "Obsidian Rod"

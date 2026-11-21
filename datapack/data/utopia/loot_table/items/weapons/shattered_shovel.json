@@ -7,19 +7,18 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:iron_shovel",
-          "conditions": [],
-          "functions": [
+          "modifier"
+: [
             {
-              "function": "minecraft:set_components",
+              "type": "minecraft:set_components",
               "components": {
                 "minecraft:item_model": "utopia:shattered_shovel",
                 "minecraft:item_name": "Shattered Shovel",
                 "minecraft:rarity": "epic"
-              },
-              "minecraft:max_damage": 1500
+              }
             },
             {
-              "function": "minecraft:set_attributes",
+              "type": "minecraft:set_attributes",
               "modifiers": [
                 {
                   "attribute": "minecraft:attack_damage",

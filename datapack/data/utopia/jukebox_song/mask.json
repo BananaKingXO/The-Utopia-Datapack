@@ -1,0 +1,9 @@
+{
+    "comparator_output": 11,
+    "description": "Dream - Mask",
+    "length_in_seconds": 173,
+    "sound_event": {
+        "sound_id": "utopia:music_disc.mask",
+        "range": 64.0
+    }
+}

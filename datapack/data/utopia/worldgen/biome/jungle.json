@@ -1,0 +1,21 @@
+{
+  "attributes": {
+    "minecraft:visual/sky_color": "#5FAAC5",
+    "minecraft:visual/fog_color": "#93D9C8",
+    "minecraft:visual/fog_start_distance": -16,
+    "minecraft:visual/fog_end_distance": 512,
+    "minecraft:visual/water_fog_color": "#04201E",
+    "minecraft:visual/sky_light_color": "#ecffed",
+    "minecraft:visual/cloud_color": "#D2E6FFF0"
+  },
+  "temperature": 0.5,
+  "downfall": 0,
+  "has_precipitation": true,
+  "effects": {
+    "foliage_color": 7451654,
+    "grass_color": 8497711,
+    "water_color": 1399954
+  },
+  "carvers": "minecraft:cave",
+  "features": []
+}

@@ -7,17 +7,17 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:mace",
-          "conditions": [],
-          "functions": [
+          "modifier"
+: [
             {
-              "function": "minecraft:set_components",
+              "type": "minecraft:set_components",
               "components": {
                 "minecraft:item_model": "utopia:dakones_mace",
                 "minecraft:item_name": "Shattered Mace"
               }
             },
             {
-              "function": "minecraft:set_attributes",
+              "type": "minecraft:set_attributes",
               "modifiers": [
                 {
                   "attribute": "minecraft:attack_damage",

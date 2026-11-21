@@ -6,9 +6,10 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:jigsaw",
-          "functions": [
+          "modifier"
+: [
             {
-              "function": "minecraft:set_name",
+              "type": "minecraft:set_name",
               "entity": "this",
               "name": {
                 "text": "Void Color Palette"
@@ -16,7 +17,7 @@
               "target": "item_name"
             },
             {
-              "function": "minecraft:set_components",
+              "type": "minecraft:set_components",
               "components": {
                 "minecraft:provides_trim_material": "void",
                 "minecraft:item_model": "utopia:void_palette",

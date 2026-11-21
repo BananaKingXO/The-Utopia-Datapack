@@ -1,0 +1,8 @@
+{
+  "palette_id": "utopia:trim/bee",
+  "asset_name": "bee",
+  "description": {
+    "color": "#e6c990",
+    "translate": "trim_material.example.bee"
+  }
+}
