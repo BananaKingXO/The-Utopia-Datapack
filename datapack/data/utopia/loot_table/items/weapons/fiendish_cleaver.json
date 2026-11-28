@@ -1,0 +1,59 @@
+{
+  "type": "minecraft:empty",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:iron_sword",
+          "modifier"
+: [
+            {
+              "type": "minecraft:set_name",
+              "name": [
+                {
+                  "translate": "item.utopia.fiendish_cleaver",
+                  "fallback": "Fiendish Cleaver",
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "minecraft:set_components",
+              "components": {
+                "minecraft:item_model": "utopia:fiendish_cleaver",
+                "minecraft:custom_data": {
+                  "utopia:item": "fiendish_cleaver"
+                },
+                "minecraft:enchantments": {
+                  "minecraft:sharpness": 5,
+                  "utopia:obscuring": 1
+                }
+              }
+            },
+            {
+              "type": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:attack_damage",
+                  "id": "base_attack_damage",
+                  "amount": 6.5,
+                  "operation": "add_value",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:attack_speed",
+                  "id": "base_attack_speed",
+                  "amount": -2.2,
+                  "operation": "add_value",
+                  "slot": "mainhand"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
